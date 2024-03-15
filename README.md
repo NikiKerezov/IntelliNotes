@@ -1,7 +1,6 @@
-![image](https://github.com/NikiKerezov/IntelliNotes/assets/72574892/d94f4448-32c5-4926-890e-293cd89616fb)
-
-
 # IntelliNodes - Your next study assistant
+
+![image](https://github.com/NikiKerezov/IntelliNotes/assets/72574892/d94f4448-32c5-4926-890e-293cd89616fb)
 
 ## Съдържание:
 - [Проблем](#problem)
