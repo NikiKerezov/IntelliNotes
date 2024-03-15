@@ -1,0 +1,12 @@
+[submodule "whisper-flask"]
+	path = whisper-flask
+	url = https://github.com/NikiKerezov/whisper-flask
+[submodule "mobile-backend-api"]
+	path = mobile-backend-api
+	url = https://github.com/KristiyanBogdanov/mobile-backend-api.git
+[submodule "file-handler"]
+	path = file-handler
+	url = https://github.com/achonikolov592/HackTUESX.git
+[submodule "gpt-bridge"]
+	path = gpt-bridge
+	url = https://github.com/Krumomir/hack10.git
