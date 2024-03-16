@@ -41,6 +41,12 @@
 - Mux (Backend)
 - Jetpack Compose (Frontend)
 
+<a name="architecture"/>
+
+## Архитектура:
+
+![image](https://github.com/NikiKerezov/IntelliNotes/blob/main/architecture.png)
+
 <a name="team"/>
 
 ## Нашият екип:
