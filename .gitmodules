@@ -10,6 +10,3 @@
 [submodule "gpt-bridge"]
 	path = gpt-bridge
 	url = https://github.com/Krumomir/hack10.git
-[submodule "IntelliNotes-MobileApp"]
-	path = IntelliNotes-MobileApp
-	url = https://github.com/Simeon681/IntelliNotes-MobileApp
