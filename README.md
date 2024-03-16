@@ -8,6 +8,7 @@
 - [Избрана тема](#theme)
 - [Описание](#description)
 - [Използвани технологии](#technologies)
+- [Архитектура](#architecture)
 - [Нашето екип](#team)
 
 <a name="problem"/>
